@@ -1,4 +1,3 @@
-```
 function getSum(arr){
   var sum = 0;
   arr.forEach(function(el, index)){
@@ -6,9 +5,7 @@ function getSum(arr){
   });
   console.log(sum);
   };
-```
 
-```
 function reverseString(str) {
 
   var reversedStr = "";
@@ -20,4 +17,4 @@ function reverseString(str) {
   return reversedStr;
   
 };
-```
+
