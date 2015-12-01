@@ -1,5 +1,8 @@
-// Write a function in which the input is a string and the output is the reverse of that string. This function whould take  spaces into account. Do not use the built-in JavaScript reverse method.
-// Input: "Hello I'm Heather", Output: "rehtaeH m'I olleH"
+Write a function in which the input is an array of integers and the output is the sum of that array.
+Input: [1, 2, 3, 4], Output: 10
+
+Write a function in which the input is a string and the output is the reverse of that string. This function whould take  spaces into account. Do not use the built-in JavaScript reverse method.
+Input: "Hello I'm Heather", Output: "rehtaeH m'I olleH"
 
 // Write a function that converts an integer into its Roman numeral equivalent. 
 // Input: 4, Output: "IV" 
