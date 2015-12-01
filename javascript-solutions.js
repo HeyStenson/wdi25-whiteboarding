@@ -1,4 +1,14 @@
 ```
+function getSum(arr){
+  var sum = 0;
+  arr.forEach(function(el, index)){
+    sum += el;
+  });
+  console.log(sum);
+  };
+```
+
+```
 function reverseString(str) {
 
   var reversedStr = "";
